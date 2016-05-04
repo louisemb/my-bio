@@ -1,2 +1,4 @@
 # my-bio
-Description of Louise
+Biography of Louise
+
+Italian 24 y/o girl, living in Vancouver.
